@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://bikuraut1.github.io/Bikuraut/sitemap.xml

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field notes — Biku Raut</title>
+    <link>https://bikuraut1.github.io/Bikuraut/blog.html</link>
+    <atom:link href="https://bikuraut1.github.io/Bikuraut/rss.xml" rel="self" type="application/rss+xml"/>
+    <description>Short essays on antennas, metasurfaces and time-varying electromagnetics, written to explain the ideas behind the papers.</description>
+    <language>en</language>
+    <item>
+      <title>Antennas in time: a primer on time-varying permittivity</title>
+      <link>https://bikuraut1.github.io/Bikuraut/blog-antennas-in-time.html</link>
+      <guid>https://bikuraut1.github.io/Bikuraut/blog-antennas-in-time.html</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Change a material while a wave is inside it and the wave's frequency changes, not its wavelength. A short introduction to temporal boundaries and why they interest antenna designers.</description>
+    </item>
+    <item>
+      <title>Simulate, fabricate, measure: a checklist for low-cost prototypes</title>
+      <link>https://bikuraut1.github.io/Bikuraut/blog-simulate-fabricate-measure.html</link>
+      <guid>https://bikuraut1.github.io/Bikuraut/blog-simulate-fabricate-measure.html</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <description>The gap between a simulated S11 curve and a measured one is usually made of small, predictable things. This is the checklist I go through before and after a board is made.</description>
+    </item>
+    <item>
+      <title>Axial ratio, explained with a helix</title>
+      <link>https://bikuraut1.github.io/Bikuraut/blog-axial-ratio-explained.html</link>
+      <guid>https://bikuraut1.github.io/Bikuraut/blog-axial-ratio-explained.html</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 GMT</pubDate>
+      <description>What the axial ratio of a circularly polarized antenna measures, why 3 dB became the standard threshold, and how little a 3 dB axial ratio actually costs you.</description>
+    </item>
+    <item>
+      <title>Letting the modes do the design work</title>
+      <link>https://bikuraut1.github.io/Bikuraut/blog-letting-the-modes-design.html</link>
+      <guid>https://bikuraut1.github.io/Bikuraut/blog-letting-the-modes-design.html</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Characteristic mode analysis tells you which currents a structure wants to carry before you decide where to feed it. Here is how that turns into a recipe for circular polarization.</description>
+    </item>
+  </channel>
+</rss>
